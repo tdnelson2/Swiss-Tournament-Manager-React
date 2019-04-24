@@ -1,3 +1,6 @@
+# Swiss Style Tournament Manager
+A frontend React app for managing a Swiss style tournaments.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
